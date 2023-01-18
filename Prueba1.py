@@ -1,5 +1,5 @@
 import requests
-import json
+
 
 resp=requests.get("https://jsonplaceholder.typicode.com/users")
 resp2=resp.json()
