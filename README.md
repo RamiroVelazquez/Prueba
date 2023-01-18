@@ -5,5 +5,6 @@ En el siguiente repositorio encontrara las pruebas realizadas en Python, estas p
 
 Le dejo los 2 archivos .py de cada una de las pruebas antes mencionadas asi como el archivo el cual me fue guia para la realizacion de esta prueba.
 
-[Enlace para prueba 1](Prueba1.py)\n
+[Enlace para prueba 1](Prueba1.py)
+
 [Enlace para prueba 2](Prueba2.py)
